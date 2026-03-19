@@ -1,0 +1,50 @@
+[
+  {
+    "hs": "8528720000",
+    "descripcion": "Televisores",
+    "advalorem": 5,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "mixto",
+    "especifico": {
+      "tipo": "por_pulgadas",
+      "rangos": [
+        { "hasta": 20, "usd": 0 },
+        { "hasta": 32, "usd": 73.11 },
+        { "hasta": 41, "usd": 140.32 },
+        { "hasta": 75, "usd": 158.14 }
+      ],
+      "mayor_a": {
+        "advalorem": 20,
+        "usd": 0
+      }
+    }
+  },
+  {
+    "hs": "6403990000",
+    "descripcion": "Calzado",
+    "advalorem": 10,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "especifico",
+    "especifico": {
+      "unidad": "par",
+      "usd": 6
+    }
+  },
+  {
+    "hs": "6109100000",
+    "descripcion": "Camisetas",
+    "advalorem": 20,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "especifico",
+    "especifico": {
+      "unidad": "kg",
+      "usd": 5.5
+    }
+  }
+]
