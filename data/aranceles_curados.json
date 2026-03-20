@@ -1,1 +1,422 @@
-
+[
+  {
+    "hs": "8471300000",
+    "descripcion": "Computadoras portátiles",
+    "aliases": ["laptop", "notebook", "portatil", "ultrabook", "computadora portatil"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8471490000",
+    "descripcion": "Computadoras de escritorio",
+    "aliases": ["pc", "desktop", "computadora", "computador", "cpu", "torre", "desktop pc", "pc de escritorio"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8471410000",
+    "descripcion": "Computadoras all-in-one",
+    "aliases": ["all in one", "aio", "computadora integrada", "pc all in one"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8471500000",
+    "descripcion": "Unidades de proceso distintas de portátiles y AIO",
+    "aliases": ["workstation", "servidor basico", "mini pc", "nuc"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8471410000",
+    "descripcion": "Servidores",
+    "aliases": ["server", "servidor", "rack server", "tower server"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8471602000",
+    "descripcion": "Teclados",
+    "aliases": ["teclado", "keyboard", "teclado gamer", "teclado mecanico"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8471601000",
+    "descripcion": "Mouse",
+    "aliases": ["mouse", "raton", "mouse gamer"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8471609000",
+    "descripcion": "Otros periféricos de entrada o salida",
+    "aliases": ["periferico", "perifericos", "trackpad", "presentador", "lector biometrico", "lector de codigo"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8528520000",
+    "descripcion": "Monitores",
+    "aliases": ["monitor", "display", "pantalla monitor", "monitor gamer"],
+    "advalorem": 5,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "mixto"
+  },
+  {
+    "hs": "8528720000",
+    "descripcion": "Televisores",
+    "aliases": ["tv", "tele", "televisor", "smart tv", "pantalla tv"],
+    "advalorem": 5,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "mixto"
+  },
+  {
+    "hs": "8517622000",
+    "descripcion": "Routers y equipos de red",
+    "aliases": ["router", "wifi", "mesh", "access point", "modem router", "redes", "networking"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8544421000",
+    "descripcion": "Cables de red con conectores",
+    "aliases": ["cable de red", "patch cord", "ethernet", "cable lan", "cable utp armado"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8544491000",
+    "descripcion": "Cables de red sin conectores",
+    "aliases": ["bobina utp", "cable utp", "cable de red sin conector", "cable lan sin conector"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8518300000",
+    "descripcion": "Audífonos y headsets",
+    "aliases": ["audifonos", "audífonos", "headphones", "headset", "earbuds", "manos libres"],
+    "advalorem": 10,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8518210000",
+    "descripcion": "Parlantes sin radio",
+    "aliases": ["parlante", "speaker", "bocina", "parlante bluetooth", "speaker sin radio"],
+    "advalorem": 10,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8527910000",
+    "descripcion": "Parlantes con radio / equipos de audio con radio",
+    "aliases": ["parlante con radio", "speaker con radio", "radio parlante", "equipo de sonido con radio"],
+    "advalorem": 10,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8517629000",
+    "descripcion": "Cámaras web",
+    "aliases": ["webcam", "camara web", "camara para pc"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8525890000",
+    "descripcion": "Cámaras de seguridad",
+    "aliases": ["camara de seguridad", "cctv", "ip camera", "camara ip", "camara vigilancia"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8517629000",
+    "descripcion": "Artículos de domótica",
+    "aliases": ["domotica", "domótica", "smart home", "casa inteligente", "sensor inteligente", "enchufe inteligente", "switch inteligente"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8517130000",
+    "descripcion": "Teléfonos inteligentes",
+    "aliases": ["celular", "telefono", "teléfono", "smartphone", "movil", "móvil"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8471300000",
+    "descripcion": "Tablets",
+    "aliases": ["tablet", "tableta", "ipad", "android tablet"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8443310000",
+    "descripcion": "Impresoras multifunción con escáner",
+    "aliases": ["impresora multifuncion", "multifuncion", "multifunción", "printer scanner", "impresora con scanner", "impresora con escaner"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8443321000",
+    "descripcion": "Impresoras sin escáner",
+    "aliases": ["impresora", "printer", "impresora simple", "impresora sin scanner", "impresora sin escaner"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8471609000",
+    "descripcion": "Escáneres",
+    "aliases": ["scanner", "escaner", "escáner", "digitalizador"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8471700000",
+    "descripcion": "Discos duros y SSD",
+    "aliases": ["disco duro", "hdd", "ssd", "nvme", "almacenamiento", "unidad estado solido"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8473301000",
+    "descripcion": "Tarjetas madre y placas base",
+    "aliases": ["mainboard", "motherboard", "placa madre", "tarjeta madre"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8473309000",
+    "descripcion": "Partes y componentes de PC",
+    "aliases": ["componentes pc", "componentes", "hardware pc", "case", "gabinete", "cooler", "fuente de poder", "power supply", "memoria ram"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8473302000",
+    "descripcion": "Tarjetas gráficas y aceleradoras",
+    "aliases": ["gpu", "tarjeta de video", "tarjeta grafica", "tarjeta gráfica", "video card"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8542310000",
+    "descripcion": "Procesadores y controladores",
+    "aliases": ["procesador", "cpu intel", "cpu amd", "microprocesador"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "9504500000",
+    "descripcion": "Consolas de videojuegos",
+    "aliases": ["playstation", "xbox", "nintendo switch", "consola", "videojuego", "gaming console"],
+    "advalorem": 20,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "9401710000",
+    "descripcion": "Sillas",
+    "aliases": ["silla", "silla gamer", "silla oficina", "chair"],
+    "advalorem": 20,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "9403300000",
+    "descripcion": "Escritorios y muebles de oficina",
+    "aliases": ["escritorio", "desk", "mesa oficina", "mueble oficina"],
+    "advalorem": 20,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8504401100",
+    "descripcion": "UPS",
+    "aliases": ["ups", "no break", "nobreak", "respaldo energia", "respaldo de energia"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8504409000",
+    "descripcion": "Reguladores de voltaje",
+    "aliases": ["regulador", "regulador de voltaje", "estabilizador"],
+    "advalorem": 0,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8536699000",
+    "descripcion": "Regletas, supresores y multitomas",
+    "aliases": ["regleta", "supresor de pico", "multitoma", "power strip", "protector de voltaje"],
+    "advalorem": 10,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8711600090",
+    "descripcion": "Scooters eléctricos",
+    "aliases": ["scooter", "scooter electrico", "monopatin electrico", "monopatín eléctrico"],
+    "advalorem": 15,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "4202920000",
+    "descripcion": "Mochilas",
+    "aliases": ["mochila", "backpack", "morral"],
+    "advalorem": 20,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "4202120000",
+    "descripcion": "Maletines",
+    "aliases": ["maletin", "maletín", "briefcase", "portafolio"],
+    "advalorem": 20,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "4202320000",
+    "descripcion": "Forros y fundas para laptop",
+    "aliases": ["forro laptop", "funda laptop", "case laptop", "sleeve", "forro portatil"],
+    "advalorem": 20,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8516600000",
+    "descripcion": "Electrodomésticos y electromenores de calentamiento",
+    "aliases": ["freidora de aire", "air fryer", "microondas", "horno electrico", "cafetera", "sanduchera", "tostadora", "wafflera", "hervidor", "licuadora", "batidora"],
+    "advalorem": 20,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8509400000",
+    "descripcion": "Trituradoras, mezcladoras y exprimidores",
+    "aliases": ["licuadora", "procesador alimentos", "extractor", "exprimidor", "blender"],
+    "advalorem": 20,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  },
+  {
+    "hs": "8509800000",
+    "descripcion": "Otros pequeños electrodomésticos",
+    "aliases": ["aspiradora de mano", "robot aspiradora", "electromenor", "cuidado personal", "secadora", "plancha de cabello", "afeitadora"],
+    "advalorem": 20,
+    "fodinfa": 0.5,
+    "iva": 15,
+    "ice": 0,
+    "tipo": "advalorem"
+  }
+]
